@@ -1,3 +1,3 @@
-# ArtPage
+# OCTANET_AUGUST
 Landing page
- https://pr1404.github.io/ArtPage/  //link to see the final result
+  https://pr1404.github.io/OCTANET_AUGUST/  //link to see the final result
