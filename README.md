@@ -1,3 +1,3 @@
 # ArtPage
 Landing page
- https://pr1404.github.io/ArtPage/  //click to see the final result
+ https://pr1404.github.io/ArtPage/  //link to see the final result
